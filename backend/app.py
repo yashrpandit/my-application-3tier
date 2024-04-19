@@ -8,8 +8,8 @@ CORS(app)
 # Replace these values with your actual database credentials
 db_config = {
     'host': 'enter db host name',
-    'user': 'Yash',
-    'password': 'Yash12345',
+    'user': 'enter master username',
+    'password': 'enter username password',
     'database': 'employees'
 }
 
